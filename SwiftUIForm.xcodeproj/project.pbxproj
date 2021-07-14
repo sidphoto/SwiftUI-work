@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		407C1FDB269D771F0094561D /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407C1FDA269D771F0094561D /* SettingView.swift */; };
 		F4741DD124ED67BE00F16863 /* SwiftUIFormApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4741DD024ED67BE00F16863 /* SwiftUIFormApp.swift */; };
 		F4741DD324ED67BE00F16863 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4741DD224ED67BE00F16863 /* ContentView.swift */; };
 		F4741DD524ED67C100F16863 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4741DD424ED67C100F16863 /* Assets.xcassets */; };
 		F4741DD824ED67C100F16863 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4741DD724ED67C100F16863 /* Preview Assets.xcassets */; };
+		F4741DE024ED706600F16863 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4741DDF24ED706600F16863 /* SettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		407C1FDA269D771F0094561D /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		F4741DCD24ED67BE00F16863 /* SwiftUIForm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIForm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4741DD024ED67BE00F16863 /* SwiftUIFormApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIFormApp.swift; sourceTree = "<group>"; };
 		F4741DD224ED67BE00F16863 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F4741DD424ED67C100F16863 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4741DD724ED67C100F16863 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F4741DD924ED67C100F16863 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4741DDF24ED706600F16863 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 				F4741DD424ED67C100F16863 /* Assets.xcassets */,
 				F4741DD924ED67C100F16863 /* Info.plist */,
 				F4741DD624ED67C100F16863 /* Preview Content */,
-				407C1FDA269D771F0094561D /* SettingView.swift */,
+				F4741DDF24ED706600F16863 /* SettingView.swift */,
 			);
 			path = SwiftUIForm;
 			sourceTree = "<group>";
@@ -141,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				407C1FDB269D771F0094561D /* SettingView.swift in Sources */,
+				F4741DE024ED706600F16863 /* SettingView.swift in Sources */,
 				F4741DD324ED67BE00F16863 /* ContentView.swift in Sources */,
 				F4741DD124ED67BE00F16863 /* SwiftUIFormApp.swift in Sources */,
 			);
